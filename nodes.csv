@@ -1,0 +1,45 @@
+id;name;type;party;age;sex
+Platzeck;Matthias Platzeck;1;3;4;1
+Pofalla;Ronald Pofalla;1;1;4;1
+Praetorius;Barbara Praetorius;1;NA;NA;2
+Tillich;Stanislaw Tillich;1;1;4;1
+Hasselfeldt;Gerda Hasselfeldt;1;2;4;2
+Kampeter;Steffen Kampeter;1;1;3;1
+Kapferer;Stefan Kapferer;1;5;3;1
+Kempf;Dieter Kempf;1;NA;4;1
+Nemat;Claudia Nemat;1;NA;3;2
+Reiche;Katherina Reiche;1;1;2;2
+Röstel;Gunda Röstel;1;4;3;2
+Schweitzer;Eric Schweitzer;1;NA;3;1
+Grothus;Antje Grothus;1;NA;3;2
+Wodtke;Hannelore Wodtke;1;1;NA;2
+Herntier;Christine Herntier;1;NA;4;2
+Kreuzberg;Michael Kreuzberg;1;1;4;1
+Priggen;Reiner Priggen;1;4;4;1
+Vassiliadis;Michael Vassiliadis;1;3;4;1
+Scheidt;Andreas Scheidt;1;3;4;1
+Körzell;Stefan Körzell;1;3;3;1
+Kaiser;Martin Kaiser;1;NA;3;1
+Weiger;Hubert Weiger;1;NA;5;1
+Niebert;Kai Niebert;1;NA;2;1
+Allmendinger;Jutta Allmendinger;1;NA;4;2
+Matthes;Felix Matthes;1;NA;3;1
+Schellnhuber;Hans Joachim Schellnhuber;1;NA;4;1
+Niebuhr;Annekathrin Niebuhr;1;NA;NA;2
+Wehrspohn;Ralf Wehrspohn;1;NA;2;1
+Lämmel;Andreas Lämmel;1;1;4;1
+Lenz;Andreas Lenz;1;2;1;1
+Miersch;Matthias Miersch;1;3;3;1
+1;Politik;2;NA;NA;NA
+2;Verband;2;NA;NA;NA
+3;Gewerkschaft;2;NA;NA;NA
+4;Umweltschutz;2;NA;NA;NA
+5;Industrie;2;NA;NA;NA
+6;Energieunternehmen;2;NA;NA;NA
+7;Wissenschaft;2;NA;NA;NA
+8;Regionalvertreter;2;NA;NA;NA
+9;CDU;2;NA;NA;NA
+10;CSU;2;NA;NA;NA
+11;SPD;2;NA;NA;NA
+12;Gruene;2;NA;NA;NA
+NA;Alle anderen;2;NA;NA;NA
